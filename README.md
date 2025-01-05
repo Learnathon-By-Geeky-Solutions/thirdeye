@@ -9,7 +9,9 @@
 - shateelahmed
 
 ## Project Description
-Add your project description here.
+Project Name: Printhub
+
+This project aim to make easier the cycle of printing allowing them online web-based platform.Here User will be able to make print request to their chossen printing shop and see the status of print. And print business owner can see print request and perform print and chage printing status.
 
 ## Getting Started
 1. Clone the repository
