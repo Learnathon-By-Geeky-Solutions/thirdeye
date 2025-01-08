@@ -1,0 +1,1 @@
+<img src="transparent_logo.png" alt="" height="40px" width="40px">
